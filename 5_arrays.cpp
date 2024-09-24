@@ -195,6 +195,6 @@ int main()
     // sumAndproductofArr(arr1, 6);
     // swapMinMaxofArr(arr1, 6);
     // uniqueArrNum(arr1, 6);
-    intersectionOFArr(arr1,6, arr2, 3);
+    intersectionOFArr(arr1,6, arr2, 3); 
     return 0;
 }
